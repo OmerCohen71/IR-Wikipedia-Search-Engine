@@ -1,0 +1,58 @@
+Retrival time for [best marvel movie] with search using Cosine Similarity with query expansions using fastText model -> 2.488011598587036
+Average precision for [best marvel movie] -> 0.0
+Retrival time for [How do kids come to world?] with search using Cosine Similarity with query expansions using fastText model -> 2.249018907546997
+Average precision for [How do kids come to world?] -> 0.0
+Retrival time for [Information retrieval] with search using Cosine Similarity with query expansions using fastText model -> 0.8428921699523926
+Average precision for [Information retrieval] -> 0.081
+Retrival time for [LinkedIn] with search using Cosine Similarity with query expansions using fastText model -> 0.4565768241882324
+Average precision for [LinkedIn] -> 0.0
+Retrival time for [How to make coffee?] with search using Cosine Similarity with query expansions using fastText model -> 1.2796919345855713
+Average precision for [How to make coffee?] -> 0.0
+Retrival time for [Ritalin] with search using Cosine Similarity with query expansions using fastText model -> 0.42543959617614746
+Average precision for [Ritalin] -> 0.542
+Retrival time for [How to make wine at home?] with search using Cosine Similarity with query expansions using fastText model -> 1.758979320526123
+Average precision for [How to make wine at home?] -> 0.0
+Retrival time for [Most expensive city in the world] with search using Cosine Similarity with query expansions using fastText model -> 2.7257025241851807
+Average precision for [Most expensive city in the world] -> 0.0
+Retrival time for [India] with search using Cosine Similarity with query expansions using fastText model -> 0.6749322414398193
+Average precision for [India] -> 0.0
+Retrival time for [how to make money fast?] with search using Cosine Similarity with query expansions using fastText model -> 1.4011387825012207
+Average precision for [how to make money fast?] -> 0.0
+Retrival time for [Netflix] with search using Cosine Similarity with query expansions using fastText model -> 0.49170756340026855
+Average precision for [Netflix] -> 0.0
+Retrival time for [Apple computer] with search using Cosine Similarity with query expansions using fastText model -> 0.8490099906921387
+Average precision for [Apple computer] -> 0.0
+Retrival time for [The Simpsons] with search using Cosine Similarity with query expansions using fastText model -> 0.5992085933685303
+Average precision for [The Simpsons] -> 0.0
+Retrival time for [World cup] with search using Cosine Similarity with query expansions using fastText model -> 1.7347004413604736
+Average precision for [World cup] -> 0.0
+Retrival time for [How to lose weight?] with search using Cosine Similarity with query expansions using fastText model -> 0.874300479888916
+Average precision for [How to lose weight?] -> 0.0
+Retrival time for [Java] with search using Cosine Similarity with query expansions using fastText model -> 0.487133264541626
+Average precision for [Java] -> 0.0
+Retrival time for [Air Jordan] with search using Cosine Similarity with query expansions using fastText model -> 0.8542673587799072
+Average precision for [Air Jordan] -> 0.0
+Retrival time for [how to deal with depression?] with search using Cosine Similarity with query expansions using fastText model -> 0.7363638877868652
+Average precision for [how to deal with depression?] -> 0.0
+Retrival time for [How do you make gold] with search using Cosine Similarity with query expansions using fastText model -> 1.4411442279815674
+Average precision for [How do you make gold] -> 0.0
+Retrival time for [Marijuana] with search using Cosine Similarity with query expansions using fastText model -> 0.5465748310089111
+Average precision for [Marijuana] -> 0.042
+Retrival time for [How to make hummus] with search using Cosine Similarity with query expansions using fastText model -> 1.0583360195159912
+Average precision for [How to make hummus] -> 0.137
+Retrival time for [Winter] with search using Cosine Similarity with query expansions using fastText model -> 0.9621000289916992
+Average precision for [Winter] -> 0.037
+Retrival time for [Natural Language processing] with search using Cosine Similarity with query expansions using fastText model -> 1.2140626907348633
+Average precision for [Natural Language processing] -> 0.0
+Retrival time for [World Cup 2022] with search using Cosine Similarity with query expansions using fastText model -> 3.2106194496154785
+Average precision for [World Cup 2022] -> 0.0
+Retrival time for [Dolly the sheep] with search using Cosine Similarity with query expansions using fastText model -> 0.6133532524108887
+Average precision for [Dolly the sheep] -> 0.063
+Retrival time for [What is the best place to live in?] with search using Cosine Similarity with query expansions using fastText model -> 2.010716199874878
+Average precision for [What is the best place to live in?] -> 0.0
+Retrival time for [Elon musk] with search using Cosine Similarity with query expansions using fastText model -> 0.5069248676300049
+Average precision for [Elon musk] -> 0.0
+Retrival time for [How do you breed flowers?] with search using Cosine Similarity with query expansions using fastText model -> 0.7782254219055176
+Average precision for [How do you breed flowers?] -> 0.0
+
+Process finished with exit code 0

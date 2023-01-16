@@ -1,0 +1,46 @@
+Retrival time for [LinkedIn] with search using BM25 with query expansions using fastText model -> 0.48172807693481445
+Average precision for [LinkedIn] -> 0.795
+Retrival time for [How to make coffee?] with search using BM25 with query expansions using fastText model -> 3.1714789867401123
+Average precision for [How to make coffee?] -> 0.0
+Retrival time for [Ritalin] with search using BM25 with query expansions using fastText model -> 0.45247745513916016
+Average precision for [Ritalin] -> 0.813
+Retrival time for [Most expensive city in the world] with search using BM25 with query expansions using fastText model -> 10.651136636734009
+Average precision for [Most expensive city in the world] -> 0.0
+Retrival time for [India] with search using BM25 with query expansions using fastText model -> 1.487593650817871
+Average precision for [India] -> 0.119
+Retrival time for [how to make money fast?] with search using BM25 with query expansions using fastText model -> 4.132469654083252
+Average precision for [how to make money fast?] -> 0.703
+Retrival time for [Netflix] with search using BM25 with query expansions using fastText model -> 0.5423531532287598
+Average precision for [Netflix] -> 0.469
+Retrival time for [Apple computer] with search using BM25 with query expansions using fastText model -> 1.3121583461761475
+Average precision for [Apple computer] -> 0.09
+Retrival time for [The Simpsons] with search using BM25 with query expansions using fastText model -> 0.6070399284362793
+Average precision for [The Simpsons] -> 0.096
+Retrival time for [World cup] with search using BM25 with query expansions using fastText model -> 6.124225378036499
+Average precision for [World cup] -> 0.0
+Retrival time for [Java] with search using BM25 with query expansions using fastText model -> 0.5646395683288574
+Average precision for [Java] -> 0.373
+Retrival time for [Air Jordan] with search using BM25 with query expansions using fastText model -> 1.9944562911987305
+Average precision for [Air Jordan] -> 0.436
+Retrival time for [how to deal with depression?] with search using BM25 with query expansions using fastText model -> 1.3763821125030518
+Average precision for [how to deal with depression?] -> 0.131
+Retrival time for [How do you make gold] with search using BM25 with query expansions using fastText model -> 4.799421548843384
+Average precision for [How do you make gold] -> 0.393
+Retrival time for [Marijuana] with search using BM25 with query expansions using fastText model -> 0.5018551349639893
+Average precision for [Marijuana] -> 0.507
+Retrival time for [How to make hummus] with search using BM25 with query expansions using fastText model -> 3.0047247409820557
+Average precision for [How to make hummus] -> 0.531
+Retrival time for [Winter] with search using BM25 with query expansions using fastText model -> 2.8344335556030273
+Average precision for [Winter] -> 0.0
+Retrival time for [World Cup 2022] with search using BM25 with query expansions using fastText model -> 11.610818862915039
+Average precision for [World Cup 2022] -> 0.0
+Retrival time for [Dolly the sheep] with search using BM25 with query expansions using fastText model -> 0.7073695659637451
+Average precision for [Dolly the sheep] -> 0.809
+Retrival time for [What is the best place to live in?] with search using BM25 with query expansions using fastText model -> 8.081039428710938
+Average precision for [What is the best place to live in?] -> 0.0
+Retrival time for [Elon musk] with search using BM25 with query expansions using fastText model -> 0.5371429920196533
+Average precision for [Elon musk] -> 0.347
+Retrival time for [How do you breed flowers?] with search using BM25 with query expansions using fastText model -> 1.0829846858978271
+Average precision for [How do you breed flowers?] -> 0.0
+
+Process finished with exit code 0

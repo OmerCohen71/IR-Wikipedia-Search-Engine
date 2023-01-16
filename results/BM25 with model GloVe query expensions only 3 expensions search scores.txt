@@ -1,0 +1,50 @@
+Retrival time for [best marvel movie] with search using BM25 with query expansions using GloVe model -> 20.10828185081482
+Average precision for [best marvel movie] -> 0.0
+Retrival time for [Information retrieval] with search using BM25 with query expansions using GloVe model -> 4.34130859375
+Average precision for [Information retrieval] -> 0.527
+Retrival time for [How to make coffee?] with search using BM25 with query expansions using GloVe model -> 13.647183179855347
+Average precision for [How to make coffee?] -> 0.025
+Retrival time for [Ritalin] with search using BM25 with query expansions using GloVe model -> 0.37750911712646484
+Average precision for [Ritalin] -> 0.57
+Retrival time for [How to make wine at home?] with search using BM25 with query expansions using GloVe model -> 30.59880232810974
+Average precision for [How to make wine at home?] -> 0.224
+Retrival time for [India] with search using BM25 with query expansions using GloVe model -> 3.1302006244659424
+Average precision for [India] -> 0.0
+Retrival time for [how to make money fast?] with search using BM25 with query expansions using GloVe model -> 16.74138116836548
+Average precision for [how to make money fast?] -> 0.288
+Retrival time for [Netflix] with search using BM25 with query expansions using GloVe model -> 0.4627048969268799
+Average precision for [Netflix] -> 0.469
+Retrival time for [Apple computer] with search using BM25 with query expansions using GloVe model -> 3.2982382774353027
+Average precision for [Apple computer] -> 0.0
+Retrival time for [The Simpsons] with search using BM25 with query expansions using GloVe model -> 0.4289124011993408
+Average precision for [The Simpsons] -> 0.0
+Retrival time for [World cup] with search using BM25 with query expansions using GloVe model -> 11.359312295913696
+Average precision for [World cup] -> 0.29
+Retrival time for [Java] with search using BM25 with query expansions using GloVe model -> 0.5154092311859131
+Average precision for [Java] -> 0.373
+Retrival time for [Air Jordan] with search using BM25 with query expansions using GloVe model -> 2.1315860748291016
+Average precision for [Air Jordan] -> 0.033
+Retrival time for [how to deal with depression?] with search using BM25 with query expansions using GloVe model -> 7.615738868713379
+Average precision for [how to deal with depression?] -> 0.0
+Retrival time for [How do you make gold] with search using BM25 with query expansions using GloVe model -> 14.939667701721191
+Average precision for [How do you make gold] -> 0.0
+Retrival time for [Marijuana] with search using BM25 with query expansions using GloVe model -> 0.517754077911377
+Average precision for [Marijuana] -> 0.036
+Retrival time for [How to make hummus] with search using BM25 with query expansions using GloVe model -> 13.043686866760254
+Average precision for [How to make hummus] -> 0.544
+Retrival time for [Winter] with search using BM25 with query expansions using GloVe model -> 3.644108533859253
+Average precision for [Winter] -> 0.036
+Retrival time for [Rick and Morty] with search using BM25 with query expansions using GloVe model -> 2.288869857788086
+Average precision for [Rick and Morty] -> 0.0
+Retrival time for [Natural Language processing] with search using BM25 with query expansions using GloVe model -> 3.7345619201660156
+Average precision for [Natural Language processing] -> 0.316
+Retrival time for [World Cup 2022] with search using BM25 with query expansions using GloVe model -> 14.2719144821167
+Average precision for [World Cup 2022] -> 0.048
+Retrival time for [Dolly the sheep] with search using BM25 with query expansions using GloVe model -> 0.9491102695465088
+Average precision for [Dolly the sheep] -> 0.0
+Retrival time for [Elon musk] with search using BM25 with query expansions using GloVe model -> 0.6592543125152588
+Average precision for [Elon musk] -> 0.347
+Retrival time for [How do you breed flowers?] with search using BM25 with query expansions using GloVe model -> 2.013195037841797
+Average precision for [How do you breed flowers?] -> 0.226
+
+Process finished with exit code 0

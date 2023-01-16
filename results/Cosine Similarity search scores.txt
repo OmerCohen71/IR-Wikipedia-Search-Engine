@@ -1,0 +1,58 @@
+Retrival time for [best marvel movie] with search using Cosine Similarity -> 1.052168607711792
+Average precision for [best marvel movie] -> 0.0
+Retrival time for [How do kids come to world?] with search using Cosine Similarity -> 1.4969899654388428
+Average precision for [How do kids come to world?] -> 0.0
+Retrival time for [Information retrieval] with search using Cosine Similarity -> 0.642723560333252
+Average precision for [Information retrieval] -> 0.081
+Retrival time for [LinkedIn] with search using Cosine Similarity -> 0.39168620109558105
+Average precision for [LinkedIn] -> 0.0
+Retrival time for [How to make coffee?] with search using Cosine Similarity -> 0.7575480937957764
+Average precision for [How to make coffee?] -> 0.0
+Retrival time for [Ritalin] with search using Cosine Similarity -> 0.3289499282836914
+Average precision for [Ritalin] -> 0.542
+Retrival time for [How to make wine at home?] with search using Cosine Similarity -> 1.287684679031372
+Average precision for [How to make wine at home?] -> 0.0
+Retrival time for [Most expensive city in the world] with search using Cosine Similarity -> 2.0066983699798584
+Average precision for [Most expensive city in the world] -> 0.0
+Retrival time for [India] with search using Cosine Similarity -> 0.5625662803649902
+Average precision for [India] -> 0.0
+Retrival time for [how to make money fast?] with search using Cosine Similarity -> 0.9978713989257812
+Average precision for [how to make money fast?] -> 0.0
+Retrival time for [Netflix] with search using Cosine Similarity -> 0.38828277587890625
+Average precision for [Netflix] -> 0.0
+Retrival time for [Apple computer] with search using Cosine Similarity -> 0.4940321445465088
+Average precision for [Apple computer] -> 0.0
+Retrival time for [The Simpsons] with search using Cosine Similarity -> 0.3971550464630127
+Average precision for [The Simpsons] -> 0.0
+Retrival time for [World cup] with search using Cosine Similarity -> 1.4428439140319824
+Average precision for [World cup] -> 0.0
+Retrival time for [How to lose weight?] with search using Cosine Similarity -> 0.4934990406036377
+Average precision for [How to lose weight?] -> 0.0
+Retrival time for [Java] with search using Cosine Similarity -> 0.42165374755859375
+Average precision for [Java] -> 0.0
+Retrival time for [Air Jordan] with search using Cosine Similarity -> 0.696751594543457
+Average precision for [Air Jordan] -> 0.0
+Retrival time for [how to deal with depression?] with search using Cosine Similarity -> 0.5731427669525146
+Average precision for [how to deal with depression?] -> 0.0
+Retrival time for [How do you make gold] with search using Cosine Similarity -> 0.9500799179077148
+Average precision for [How do you make gold] -> 0.0
+Retrival time for [Marijuana] with search using Cosine Similarity -> 0.39017701148986816
+Average precision for [Marijuana] -> 0.091
+Retrival time for [How to make hummus] with search using Cosine Similarity -> 0.7043061256408691
+Average precision for [How to make hummus] -> 0.157
+Retrival time for [Winter] with search using Cosine Similarity -> 0.5339257717132568
+Average precision for [Winter] -> 0.056
+Retrival time for [Rick and Morty] with search using Cosine Similarity -> 0.42624330520629883
+Average precision for [Rick and Morty] -> 0.11
+Retrival time for [Natural Language processing] with search using Cosine Similarity -> 0.8230264186859131
+Average precision for [Natural Language processing] -> 0.036
+Retrival time for [World Cup 2022] with search using Cosine Similarity -> 1.484119176864624
+Average precision for [World Cup 2022] -> 0.0
+Retrival time for [Dolly the sheep] with search using Cosine Similarity -> 0.41446852684020996
+Average precision for [Dolly the sheep] -> 0.063
+Retrival time for [What is the best place to live in?] with search using Cosine Similarity -> 1.744020700454712
+Average precision for [What is the best place to live in?] -> 0.0
+Retrival time for [Elon musk] with search using Cosine Similarity -> 0.36138153076171875
+Average precision for [Elon musk] -> 0.0
+Retrival time for [How do you breed flowers?] with search using Cosine Similarity -> 0.4807608127593994
+Average precision for [How do you breed flowers?] -> 0.0

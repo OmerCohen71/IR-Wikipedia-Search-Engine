@@ -1,0 +1,64 @@
+body weight = 0.5
+title weight = 0.3
+anchor weight = 0.2
+
+Retrival time for [best marvel movie] with search -> 16.726046085357666
+Average precision for [best marvel movie] -> 0.0
+Retrival time for [How do kids come to world?] with search -> 30.800878763198853
+Average precision for [How do kids come to world?] -> 0.0
+Retrival time for [Information retrieval] with search -> 8.590350151062012
+Average precision for [Information retrieval] -> 0.0
+Retrival time for [LinkedIn] with search -> 0.8805391788482666
+Average precision for [LinkedIn] -> 0.0
+Retrival time for [How to make coffee?] with search -> 11.901581764221191
+Average precision for [How to make coffee?] -> 0.0
+Retrival time for [Ritalin] with search -> 0.34508299827575684
+Average precision for [Ritalin] -> 0.153
+Retrival time for [How to make wine at home?] with search -> 21.9805908203125
+Average precision for [How to make wine at home?] -> 0.0
+Retrival time for [Most expensive city in the world] with search -> 37.60703229904175
+Average precision for [Most expensive city in the world] -> 0.0
+Retrival time for [India] with search -> 7.812528610229492
+Average precision for [India] -> 0.053
+Retrival time for [how to make money fast?] with search -> 14.357235431671143
+Average precision for [how to make money fast?] -> 0.0
+Retrival time for [Netflix] with search -> 1.4397432804107666
+Average precision for [Netflix] -> 0.032
+Retrival time for [Apple computer] with search -> 5.514735698699951
+Average precision for [Apple computer] -> 0.0
+Retrival time for [The Simpsons] with search -> 1.1403722763061523
+Average precision for [The Simpsons] -> 0.0
+Retrival time for [World cup] with search -> 33.62703323364258
+Average precision for [World cup] -> 0.0
+Retrival time for [How to lose weight?] with search -> 3.972459077835083
+Average precision for [How to lose weight?] -> 0.0
+Retrival time for [Java] with search -> 1.7100138664245605
+Average precision for [Java] -> 0.029
+Retrival time for [Air Jordan] with search -> 10.719986915588379
+Average precision for [Air Jordan] -> 0.0
+Retrival time for [how to deal with depression?] with search -> 5.376649618148804
+Average precision for [how to deal with depression?] -> 0.0
+Retrival time for [How do you make gold] with search -> 13.82076358795166
+Average precision for [How do you make gold] -> 0.0
+Retrival time for [Marijuana] with search -> 1.1521577835083008
+Average precision for [Marijuana] -> 0.0
+Retrival time for [How to make hummus] with search -> 10.209100723266602
+Average precision for [How to make hummus] -> 0.0
+Retrival time for [Winter] with search -> 5.8272318840026855
+Average precision for [Winter] -> 0.0
+Retrival time for [Rick and Morty] with search -> 2.656527280807495
+Average precision for [Rick and Morty] -> 0.04
+Retrival time for [Natural Language processing] with search -> 12.400564908981323
+Average precision for [Natural Language processing] -> 0.0
+Retrival time for [World Cup 2022] with search -> 40.059001207351685
+Average precision for [World Cup 2022] -> 0.0
+Retrival time for [Dolly the sheep] with search -> 2.1648433208465576
+Average precision for [Dolly the sheep] -> 0.0
+Retrival time for [What is the best place to live in?] with search -> 34.605639934539795
+Average precision for [What is the best place to live in?] -> 0.0
+Retrival time for [Elon musk] with search -> 1.017033576965332
+Average precision for [Elon musk] -> 0.352
+Retrival time for [How do you breed flowers?] with search -> 3.7087128162384033
+Average precision for [How do you breed flowers?] -> 0.0
+
+Process finished with exit code 0
